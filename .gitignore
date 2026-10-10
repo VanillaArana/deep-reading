@@ -1,0 +1,9 @@
+# Reader data belongs outside this repository; these are fallback exclusions.
+reader-data/
+local/
+.venv/
+__pycache__/
+*.pyc
+evals/runs/
+.DS_Store
+Thumbs.db

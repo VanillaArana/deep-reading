@@ -1,0 +1,4 @@
+interface:
+  display_name: "Deep Reading · 深度共读"
+  short_description: "Read deeply with sources and saved progress"
+  default_prompt: "Use $deep-reading to help me read this material and continue from my saved progress."
